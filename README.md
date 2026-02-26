@@ -11,7 +11,7 @@ IOT Complete material :
 
 Link 1 (Begineer Level - ESD) : https://github.com/d-hackmt/IOT-PCU
 
-Link 2 (Senior Level   - IOT) : https://github.com/d-hackmt/DATA-SCIENCE-IOT-SPPU
+Link 2 (Senior Level   - IOT) : https://github.com/d-hackmt/IOT-DS-MSC-SY_SPPU
 
 
 ----
